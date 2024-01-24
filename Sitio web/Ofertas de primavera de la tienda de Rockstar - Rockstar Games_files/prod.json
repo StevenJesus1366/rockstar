@@ -1,0 +1,301 @@
+{
+    "microFrontends": {
+        "@rockstargames/components": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/components/3.2.3/4f37e80b3f0477abc12a9836b071c8e290429babe0f6947e06bba44a668c5a85/remote-entry.js",
+                "metadata": {
+                    "version": "3.2.3",
+                    "gitHead": "6ef22529b405eb7322599a2302434627a5d1a0c0"
+                }
+            }
+        ],
+        "@rockstargames/graph-client": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/graph-client/2.0.0/b46e727ec2e7df7125102ba3ca35b10ae81a84b7d8fb1d5c2ad79f1ac82b0c6e/remote-entry.js",
+                "metadata": {
+                    "version": "2.0.0",
+                    "gitHead": "99659a6a2b9fc1d0c66a4b6c8ad6fa775d92d3bf"
+                }
+            }
+        ],
+        "@rockstargames/intl": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/intl/4.0.1/935623df396dd804e850a87b182697064067db5fa432da20aa5903f4dfb66bdb/remote-entry.js",
+                "metadata": {
+                    "version": "4.0.1",
+                    "gitHead": "22716fd72ad58cf50e34a7e1ffac44265c4114f7"
+                }
+            }
+        ],
+        "@rockstargames/modules-core-agegate": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-agegate/3.0.0/1d98c89d047ce7b0d6d7e80f4a5e515220e9dc398ebc356255f517b49cf178b0/remote-entry.js",
+                "metadata": {
+                    "version": "3.0.0",
+                    "gitHead": "f75f17d151df8f8e27be38b8f015f1d56bafa4bd"
+                }
+            }
+        ],
+        "@rockstargames/modules-core-card": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-card/4.2.0/39d8042b629f0863ba68769b3d4f2b78f54d13a0ff6716d9d4aa78d6f222f634/remote-entry.js",
+                "metadata": {
+                    "version": "4.2.0",
+                    "gitHead": "3d5ea0e473f9d12767c25593940836d6b31908ee"
+                }
+            }
+        ],
+        "@rockstargames/modules-core-carousel": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-carousel/1.0.2/f7de47e6d22118aa5e0f304da34c9fc23cfebcb016592051c5521fe9a96099e9/remote-entry.js",
+                "metadata": {
+                    "version": "1.0.2",
+                    "gitHead": "93c23b46e8803478c25c7993b58fc8327a53d66c"
+                }
+            }
+        ],
+        "@rockstargames/modules-core-engagement": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-engagement/1.0.2/ae2cc9ae1111232360a1c8098e7b540ffdcd59be493eecd651a188b8a1324784/remote-entry.js",
+                "metadata": {
+                    "version": "1.0.2",
+                    "gitHead": "93c23b46e8803478c25c7993b58fc8327a53d66c"
+                }
+            }
+        ],
+        "@rockstargames/modules-core-feedback": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-feedback/1.0.2/eb9c1be36b3640b1db347d5c0f08dc813bb6a1bd265993d4707a3d8a476476ee/remote-entry.js",
+                "metadata": {
+                    "version": "1.0.2",
+                    "gitHead": "93c23b46e8803478c25c7993b58fc8327a53d66c"
+                }
+            }
+        ],
+        "@rockstargames/modules-core-gif-viewer": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-gif-viewer/1.0.2/0f18739c96670edb373a97cfb2687cbbe040c3bdfe85fff5e77e28a54da296ce/remote-entry.js",
+                "metadata": {
+                    "version": "1.0.2",
+                    "gitHead": "93c23b46e8803478c25c7993b58fc8327a53d66c"
+                }
+            }
+        ],
+        "@rockstargames/modules-core-group-of-items": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-group-of-items/1.0.2/f010c657a6cd67047ed0caee6d4563ce8489a78ad239ede278544e36525d0bb5/remote-entry.js",
+                "metadata": {
+                    "version": "1.0.2",
+                    "gitHead": "93c23b46e8803478c25c7993b58fc8327a53d66c"
+                }
+            }
+        ],
+        "@rockstargames/modules-core-hero": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-hero/1.0.2/535f583a8e005fc6dcbafc8c49aec889bde44266acc0f34427ce623206147039/remote-entry.js",
+                "metadata": {
+                    "version": "1.0.2",
+                    "gitHead": "93c23b46e8803478c25c7993b58fc8327a53d66c"
+                }
+            }
+        ],
+        "@rockstargames/modules-core-highlights": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-highlights/2.0.3/b9413ee80be240781a17fff5568a2c6a68a1778504de0927d1165eb53903bd90/remote-entry.js",
+                "metadata": {
+                    "version": "2.0.3",
+                    "gitHead": "632117ae4e4ddb63c70e1ecbe82d39dda5e5300c"
+                }
+            }
+        ],
+        "@rockstargames/modules-core-newswire-article": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-newswire-article/2.1.1/9d8a40e8397d407062aa1008a2311ef8a1df05d12cb90a6805ab4eb583ba8dd9/remote-entry.js",
+                "metadata": {
+                    "version": "2.1.1",
+                    "gitHead": "f23c63caa6361a238c8520a7527900e41c2af304"
+                }
+            }
+        ],
+        "@rockstargames/modules-core-sc-user": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-sc-user/3.0.0/76c918a1a948f194683e03b515912ffd91c150372387a9517227d1fcff8995e9/remote-entry.js",
+                "metadata": {
+                    "version": "3.0.0",
+                    "gitHead": "f75f17d151df8f8e27be38b8f015f1d56bafa4bd"
+                }
+            }
+        ],
+        "@rockstargames/modules-core-screenshot-viewer": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-screenshot-viewer/1.0.2/ba50a5da990bae53c94b4fc6ddf3af48702bb2585bd69490dd5b261c3a050610/remote-entry.js",
+                "metadata": {
+                    "version": "1.0.2",
+                    "gitHead": "93c23b46e8803478c25c7993b58fc8327a53d66c"
+                }
+            }
+        ],
+        "@rockstargames/modules-core-videoplayer": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-videoplayer/3.0.0/6542816d2c32890e8d5b60e89c001941de6028d9125dfa0bfc33709e0b9d8d2d/remote-entry.js",
+                "metadata": {
+                    "version": "3.0.0",
+                    "gitHead": "40da806d88ca7a32523ba970004cba2e59977d80"
+                }
+            }
+        ],
+        "@rockstargames/modules-gtao-career-progress-hub": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-gtao-career-progress-hub/3.2.11/05706dd4f75f13619dac714b10d29c8660a1e6171e68af4a32a1c6314b4c5ec3/remote-entry.js",
+                "metadata": {
+                    "version": "3.2.11",
+                    "gitHead": "6ef22529b405eb7322599a2302434627a5d1a0c0"
+                }
+            }
+        ],
+        "@rockstargames/modules-gtao-license-plate": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-gtao-license-plate/3.0.2/b8480928ade9c3f571ac099420fd3f607012f90b36b51bd356936dd0773efbf0/remote-entry.js",
+                "metadata": {
+                    "version": "3.0.2",
+                    "gitHead": "2e4cdbb86037df59d367e245ab9165d371169539"
+                }
+            }
+        ],
+        "@rockstargames/modules-sc-ugc-spotlight": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-sc-ugc-spotlight/1.0.2/5c9be75769277bd31aa0a504bfae8e6ea13b79ad4d193538e24d59c3be021102/remote-entry.js",
+                "metadata": {
+                    "version": "1.0.2",
+                    "gitHead": "93c23b46e8803478c25c7993b58fc8327a53d66c"
+                }
+            }
+        ],
+        "@rockstargames/polyfills": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/polyfills/1.0.1/65716ecdbe96e7c5d3355fc15935bd2569603f35eb054ed93607e563e49cf1e6/remote-entry.js",
+                "metadata": {
+                    "version": "1.0.1",
+                    "gitHead": "5890d036a5aa5723857e7c0635ecaa2dd1561bc1"
+                }
+            }
+        ],
+        "@rockstargames/sites-careers": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-careers/2.2.0/8257ee5e195a95409a3e74f65e3e763e1530272f0d020e104b48bd22bafe3daa/remote-entry.js",
+                "metadata": {
+                    "version": "2.2.0",
+                    "gitHead": "f23c63caa6361a238c8520a7527900e41c2af304"
+                }
+            }
+        ],
+        "@rockstargames/sites-gta-gen9": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-gta-gen9/4.1.4/bd690f8bfe0f799b629264f5ed699ddfd9ceb0c1f54ef3671688d9ba4ef9e77f/remote-entry.js",
+                "metadata": {
+                    "version": "4.1.4",
+                    "gitHead": "3d5ea0e473f9d12767c25593940836d6b31908ee"
+                }
+            }
+        ],
+        "@rockstargames/sites-gta-trilogy": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-gta-trilogy/2.0.0/a65b5b5d6ee775eece573cffc21970e5a74cbf7e289c24d883a285c518b956dd/remote-entry.js",
+                "metadata": {
+                    "version": "2.0.0",
+                    "gitHead": "90e6accdc3f409600ba7422b4fa31dbb33e83760"
+                }
+            }
+        ],
+        "@rockstargames/sites-gta-tv": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-gta-tv/1.0.2/a79eb5ed29ea54fc05610f2043e3009940d6c0257f80bea90163814e264e9eb2/remote-entry.js",
+                "metadata": {
+                    "version": "1.0.2",
+                    "gitHead": "93c23b46e8803478c25c7993b58fc8327a53d66c"
+                }
+            }
+        ],
+        "@rockstargames/sites-legacy": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-legacy/2.2.0/032e7792fd7a193077567583214e380ea3f5812a68279ba37c26be6f7d580b88/remote-entry.js",
+                "metadata": {
+                    "version": "2.2.0",
+                    "gitHead": "f23c63caa6361a238c8520a7527900e41c2af304"
+                }
+            }
+        ],
+        "@rockstargames/sites-red-dead-online": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-red-dead-online/2.0.2/4258ea8cfdeb7d29ec4b2eb867dfbab3fe03f414ae2f6f38fe0ce68e65235ac1/remote-entry.js",
+                "metadata": {
+                    "version": "2.0.2",
+                    "gitHead": "52b965581cf238f56e9b486a050f1e45ced81840"
+                }
+            }
+        ],
+        "@rockstargames/sites-rockstar-tv": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-rockstar-tv/1.0.2/79aa7d92071cfc4915c61ad034141234e7b63b9cec2c93e30f8ee2540296f5e7/remote-entry.js",
+                "metadata": {
+                    "version": "1.0.2",
+                    "gitHead": "93c23b46e8803478c25c7993b58fc8327a53d66c"
+                }
+            }
+        ],
+        "@rockstargames/sites-rockstargames": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-rockstargames/3.1.2/e51978f01aed5a97e2ffb7e9e90b6da9a9c2af86501e706d56329544c09b0f8f/remote-entry.js",
+                "metadata": {
+                    "version": "3.1.2",
+                    "gitHead": "99659a6a2b9fc1d0c66a4b6c8ad6fa775d92d3bf"
+                }
+            }
+        ],
+        "@rockstargames/sites-rockstargames-downloads": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-rockstargames-downloads/1.0.2/5a793692493970bb029cd4de05ff912ec03167385bdc0e5f489f0bbbeb099010/remote-entry.js",
+                "metadata": {
+                    "version": "1.0.2",
+                    "gitHead": "93c23b46e8803478c25c7993b58fc8327a53d66c"
+                }
+            }
+        ],
+        "@rockstargames/tina": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/tina/3.0.0/9b9ce8b27174fa58ba6023b7e7dd95759de9882016575f04a365e1f3c21c1a9e/remote-entry.js",
+                "metadata": {
+                    "version": "3.0.0",
+                    "gitHead": "02d367e77cb04239302d5db89da6359027f51016"
+                }
+            }
+        ],
+        "@rockstargames/utils": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/utils/3.0.0/62a838e65e6da49bad93797ad8f4b1c1d05629f6db3e030abfa63a2b5a627480/remote-entry.js",
+                "metadata": {
+                    "version": "3.0.0",
+                    "gitHead": "f75f17d151df8f8e27be38b8f015f1d56bafa4bd"
+                }
+            }
+        ],
+        "@rockstargames/sites-red-dead-redemption-2": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-red-dead-redemption-2/2.0.1/d1f694a90fff37bc39752480f2de31c4ef776da80a839008293753ea949a8570/remote-entry.js",
+                "metadata": {
+                    "version": "2.0.1",
+                    "gitHead": "89ea5fe1480bbfaf3a0f4015e1c6e0f8ac955e05"
+                }
+            }
+        ],
+        "@rockstargames/sites-gta": [
+            {
+                "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-gta/2.5.1/1a4350b1809d55e7d57f50e131c60e2addade3d1d19a0784d1c14f9d84f51520/remote-entry.js",
+                "metadata": {
+                    "version": "2.5.1",
+                    "gitHead": "2a859aa7a768b95240cc59c3f81ebe68c37460d2"
+                }
+            }
+        ]
+    }
+}
